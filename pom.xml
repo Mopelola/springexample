@@ -27,7 +27,7 @@
     <repository>
       <id>spring-releases</id>
       <name>spring-releases</name>
-      <url>http://ec2-34-210-180-172.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/spring-release//</url>
+      <url>http://ec2-34-210-180-172.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/spring-release///</url>
     </repository>
     <snapshotRepository>
       <id>spring-snapshots</id>
