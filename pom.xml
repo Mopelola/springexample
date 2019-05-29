@@ -19,20 +19,20 @@
     <!-- Spring framework -->
 	<dependency>
 		<groupId>org.springframework</groupId>
-		<artifactId>spring</artifactId>
+		<artifactId>capacitybay</artifactId>
 		<version>2.5.6</version>
 	</dependency> 
   </dependencies>
  <distributionManagement>
     <repository>
-      <id>spring-release</id>
-      <name>spring-release</name>
-      <url>http://ec2-34-210-68-94.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/spring-release////</url>
+      <id>capacitybay-releases</id>
+      <name>capacitybay-releases</name>
+      <url>http://18.220.229.77:8081/repository/capacitybay-releases///</url>
     </repository>
     <snapshotRepository>
-      <id>spring-snapshot</id>
-      <name>spring-snapshot</name>
-      <url>http://ec2-34-210-68-94.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/spring-snapshot///</url>
+      <id>capacitybay-snapshots</id>
+      <name>capacitybay-snapshots</name>
+      <url>http://18.220.229.77:8081/repository/capacitybay-snapshots///</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
