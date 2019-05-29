@@ -32,7 +32,7 @@
     <snapshotRepository>
       <id>capacitybay-snapshots</id>
       <name>capacitybay-snapshots</name>
-      <url>http://18.220.229.77:8081/repository/capacitybay-snapshots///</url>
+      <url>http://18.220.229.77:8081/repository/capacitybay-snapshots////</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
