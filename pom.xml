@@ -25,14 +25,14 @@
   </dependencies>
  <distributionManagement>
     <repository>
-      <id>capacitybay-releases</id>
-      <name>capacitybay-releases</name>
-      <url>http://18.220.229.77:8081/repository/capacitybay-releases///</url>
+      <id>spring-release</id>
+      <name>spring-release</name>
+      <url>http://ec2-18-219-14-219.us-east-2.compute.amazonaws.com:8081/repository/spring-release////</url>
     </repository>
     <snapshotRepository>
-      <id>capacitybay-snapshots</id>
-      <name>capacitybay-snapshots</name>
-      <url>http://18.220.229.77:8081/repository/capacitybay-snapshots////</url>
+      <id>spring-snapshot</id>
+      <name>spring-snapshot</name>
+      <url>http://ec2-18-219-14-219.us-east-2.compute.amazonaws.com:8081/repository/spring-release////</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
